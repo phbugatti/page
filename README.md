@@ -6,5 +6,5 @@
     <meta name="robots" content="index, follow" />
     <meta name="googlebot" content="index, follow" />
     
-    <title>Joanna C. S. Santos - Assistant Professor, Department of Computer Science and Engineering. University of Notre Dame (ND).</title>
-<\html>
+    <title>Pedro H. Bugatti - Associate Professor, Department of Computer Science. Federal University of Technology - Parana (UTFPR-CP).</title>
+</html>
